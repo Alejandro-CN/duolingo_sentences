@@ -1,0 +1,49 @@
+user_input,correct_input,distance,ratio,user_input_clean,correct_input_clean,distance_clean,ratio_clean,timestamp
+C'est en effet une bonne question,C'est en effet une bonne question,0,1,c'est en effet une bonne question,c'est en effet une bonne question,0,1,9/24/2024 17:49
+Elle veut quand meme des frites,Elle veut quand même des frites,1,0.967741935,elle veut quand meme des frites,elle veut quand meme des frites,0,1,9/24/2024 17:50
+Il faut agir tout de suite,Il faut agir tout de suite,0,1,il faut agir tout de suite,il faut agir tout de suite,0,1,9/24/2024 17:53
+"En fait, le francais est facile",En fait le français est facile,2,0.9508196721311476,en fait le francais est facile,en fait le francais est facile,0,1,9/24/2024 17:55
+Le monsieur est aidé par la police,Le monsieur est aidé par la police,0,1,le monsieur est aide par la police,le monsieur est aide par la police,0,1,12/18/2024 22:52
+Il est aidé par son mari,Il est aidé par son mari,0,1,il est aide par son mari,il est aide par son mari,0,1,12/18/2024 22:53
+Elle va être adopté par son oncle,Elle est adoptée par son oncle,7,0.8571428571428572,elle va etre adopte par son oncle,elle est adoptee par son oncle,7,0.8888888888888888,12/18/2024 22:54
+Chaque question est lue,Chaque question est lue,0,1,chaque question est lue,chaque question est lue,0,1,12/18/2024 22:55
+Elle m'a aidé beaucoup,Elle m'a aidé beaucoup,0,1,elle m'a aide beaucoup,elle m'a aide beaucoup,0,1,12/22/2024 16:39
+Je n'ai encore rien recu,Je n'ai encore rien reçu,1,0.9583333333333334,je n'ai encore rien recu,je n'ai encore rien recu,0,1,12/22/2024 16:40
+"Ces vacances, je les ai vraiment merité",Ces vacances je les ai vraiment méritées,4,0.9367088607594936,ces vacances je les ai vraiment merite,ces vacances je les ai vraiment meritees,2,0.9743589743589745,12/22/2024 16:41
+Je veux tout savoir,Je veux tout savoir,0,1,je veux tout savoir,je veux tout savoir,0,1,12/22/2024 16:42
+Ce couteau m'a bien servi,Ce couteau m'a bien servi,0,1,ce couteau m'a bien servi,ce couteau m'a bien servi,0,1,12/22/2024 16:42
+Il a choisi la date,Il a bien choisi la date,5,0.8837209302325582,il a choisi la date,il a bien choisi la date,5,0.8837209302325582,12/22/2024 16:43
+Etês vous encore interessé,Êtes vous toujours intéressé,9,0.7037037037037037,etes vous encore interesse,etes vous toujours interesse,6,0.8148148148148149,12/22/2024 16:44
+Elle a déja sorti du bureau,Elle a déjà quitté le bureau,8,0.7272727272727273,elle a deja sorti du bureau,elle a deja quitte le bureau,7,0.7636363636363637,12/22/2024 16:45
+Le publique est rarement decu par elle,Le public est rarement déçu par elle,5,0.8918918918918919,le publique est rarement decu par elle,le public est rarement decu par elle,3,0.945945946,12/22/2024 16:46
+Les enfants ont déja commencé,Les enfants ont déjà commencé,1,0.9655172413793104,les enfants ont deja commence,les enfants ont deja commence,0,1,12/22/2024 16:46
+Tous les enfants semblaint herueses,Tous les enfants semblaient heureux,6,0.8857142857142857,tous les enfants semblaint herueses,tous les enfants semblaient heureux,6,0.8857142857142857,1/3/2025 18:29
+Le train arrivait frequemment en retard,Le train arrivait fréquemment en retard,1,0.9743589743589745,le train arrivait frequemment en retard,le train arrivait frequemment en retard,0,1,1/3/2025 18:30
+Personne pouvait pas attendre,Personne ne pouvait attendre,7,0.8771929824561404,personne pouvait pas attendre,personne ne pouvait attendre,7,0.8771929824561404,1/3/2025 18:33
+Ils le donnaient toujour la raison,Ils lui donnaient toujours raison,5,0.8955223880597015,ils le donnaient toujour la raison,ils lui donnaient toujours raison,5,0.8955223880597015,1/9/2025 17:37
+Je le laissait frequemment seule,Je les laissais fréquemment seuls,4,0.8923076923076922,je le laissait frequemment seule,je les laissais frequemment seuls,3,0.9230769230769232,1/9/2025 17:39
+Une espoir restait encore,Un espoir restait encore,1,0.979591837,une espoir restait encore,un espoir restait encore,1,0.979591837,1/9/2025 17:39
+Elle vous aimait bien,Elle vous aimait bien,0,1,elle vous aimait bien,elle vous aimait bien,0,1,1/9/2025 17:40
+C'est quand ton anniversaire,C'est quand ton anniversaire,0,1,c'est quand ton anniversaire,c'est quand ton anniversaire,0,1,1/9/2025 17:45
+Ton sourire me manque,Ton sourire me manque,0,1,ton sourire me manque,ton sourire me manque,0,1,1/9/2025 17:48
+Nous esperions trouver un tresor,Nous espérions trouver un trésor,2,0.9375,nous esperions trouver un tresor,nous esperions trouver un tresor,0,1,1/14/2025 18:05
+Ils esperaient trouver un auberge,Ils espéraient trouver une auberge,2,0.9552238805970148,ils esperaient trouver un auberge,ils esperaient trouver une auberge,1,0.9850746268656716,1/14/2025 18:06
+Les tourists vienaient chaq ete,Les touristes venaient chaque été,6,0.875,les tourists vienaient chaq ete,les touristes venaient chaque ete,4,0.9375,1/14/2025 18:07
+L'association propose de nouvelles activites,L'association propose de nouvelles activités,1,0.9772727272727272,l'association propose de nouvelles activites,l'association propose de nouvelles activites,0,1,1/14/2025 18:09
+Les enfants ont deja commencé,Les enfants ont déjà commencé,2,0.9310344827586208,les enfants ont deja commence,les enfants ont deja commence,0,1,1/14/2025 18:10
+Remy a fabriqué un calendrier,Rémy a fabriqué un calendrier,1,0.9655172413793104,remy a fabrique un calendrier,remy a fabrique un calendrier,0,1,1/14/2025 18:11
+Elle est encore en activité,Elle est encore en activité,0,1,elle est encore en activite,elle est encore en activite,0,1,1/14/2025 18:11
+C'est une pause bien merité,C'est une pause bien méritée,2,0.9454545454545454,c'est une pause bien merite,c'est une pause bien meritee,1,0.9818181818181818,1/14/2025 18:12
+Mon cousin s'est rasé,Mon cousin s'est rasé,0,1,mon cousin s'est rase,mon cousin s'est rase,0,1,1/14/2025 18:12
+Nous avons perdu sa trace,Nous avons perdu sa trace,0,1,nous avons perdu sa trace,nous avons perdu sa trace,0,1,2/1/2025 21:37
+Cette espece est menace par le changement climatique,Cette espèce est menacée par le changement climatique,2,0.9714285714285714,cette espece est menace par le changement climatique,cette espece est menacee par le changement climatique,1,0.9904761904761904,2/1/2025 21:42
+Les bactetries sont minuscules,Les bactetries sont minuscules,0,1,les bactetries sont minuscules,les bactetries sont minuscules,0,1,2/1/2025 21:43
+Cette espece est menacé par le changement climatique,Cette espèce est menacée par le changement climatique,2,0.9714285714285714,cette espece est menace par le changement climatique,cette espece est menacee par le changement climatique,1,0.9904761904761904,2/2/2025 21:25
+Nous dansons autour d'un grand chene,Nous dansons autour d'un grand chêne,1,0.9722222222222222,nous dansons autour d'un grand chene,nous dansons autour d'un grand chene,0,1,2/2/2025 21:26
+Les chenes sont couverts de neige,Les champs sont couverts de neige,3,0.9090909090909092,les chenes sont couverts de neige,les champs sont couverts de neige,3,0.9090909090909092,2/2/2025 21:26
+Il dort sur le sol,Il dort sur le sol,0,1,il dort sur le sol,il dort sur le sol,0,1,2/3/2025 21:44
+L'arbre pousse lentement,L'arbre pousse lentement,0,1,l'arbre pousse lentement,l'arbre pousse lentement,0,1,2/3/2025 21:45
+Tous les plants ont besoin d'eau et lumiere,Toutes les plantes ont besoin d'eau et de lumière,7,0.9130434782608696,tous les plants ont besoin d'eau et lumiere,toutes les plantes ont besoin d'eau et de lumiere,6,0.9347826086956522,2/3/2025 21:45
+Rien pousse dans ce sol,Rien ne pousse sur ce sol,7,0.8333333333333334,rien pousse dans ce sol,rien ne pousse sur ce sol,7,0.8333333333333334,2/3/2025 21:46
+Il n'est pas du tout jeune,Il n'est pas du tout jeune,0,1,il n'est pas du tout jeune,il n'est pas du tout jeune,0,1,2/3/2025 21:52
+Comment influence la musique notre cerveau,Comment la musique agit-elle sur notre cerveau,20,0.7272727272727273,comment influence la musique notre cerveau,comment la musique agitelle sur notre cerveau,19,0.735632184,2/3/2025 21:52
