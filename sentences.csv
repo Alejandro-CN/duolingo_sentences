@@ -1,49 +1,186 @@
 user_input,correct_input,distance,ratio,user_input_clean,correct_input_clean,distance_clean,ratio_clean,timestamp
-C'est en effet une bonne question,C'est en effet une bonne question,0,1,c'est en effet une bonne question,c'est en effet une bonne question,0,1,9/24/2024 17:49
-Elle veut quand meme des frites,Elle veut quand même des frites,1,0.967741935,elle veut quand meme des frites,elle veut quand meme des frites,0,1,9/24/2024 17:50
-Il faut agir tout de suite,Il faut agir tout de suite,0,1,il faut agir tout de suite,il faut agir tout de suite,0,1,9/24/2024 17:53
-"En fait, le francais est facile",En fait le français est facile,2,0.9508196721311476,en fait le francais est facile,en fait le francais est facile,0,1,9/24/2024 17:55
-Le monsieur est aidé par la police,Le monsieur est aidé par la police,0,1,le monsieur est aide par la police,le monsieur est aide par la police,0,1,12/18/2024 22:52
-Il est aidé par son mari,Il est aidé par son mari,0,1,il est aide par son mari,il est aide par son mari,0,1,12/18/2024 22:53
+C'est en effet une bonne question,C'est en effet une bonne question,0,1.0,c'est en effet une bonne question,c'est en effet une bonne question,0,1.0,9/24/2024 17:49
+Elle veut quand meme des frites,Elle veut quand même des frites,1,0.967741935,elle veut quand meme des frites,elle veut quand meme des frites,0,1.0,9/24/2024 17:50
+Il faut agir tout de suite,Il faut agir tout de suite,0,1.0,il faut agir tout de suite,il faut agir tout de suite,0,1.0,9/24/2024 17:53
+"En fait, le francais est facile",En fait le français est facile,2,0.9508196721311476,en fait le francais est facile,en fait le francais est facile,0,1.0,9/24/2024 17:55
+Le monsieur est aidé par la police,Le monsieur est aidé par la police,0,1.0,le monsieur est aide par la police,le monsieur est aide par la police,0,1.0,12/18/2024 22:52
+Il est aidé par son mari,Il est aidé par son mari,0,1.0,il est aide par son mari,il est aide par son mari,0,1.0,12/18/2024 22:53
 Elle va être adopté par son oncle,Elle est adoptée par son oncle,7,0.8571428571428572,elle va etre adopte par son oncle,elle est adoptee par son oncle,7,0.8888888888888888,12/18/2024 22:54
-Chaque question est lue,Chaque question est lue,0,1,chaque question est lue,chaque question est lue,0,1,12/18/2024 22:55
-Elle m'a aidé beaucoup,Elle m'a aidé beaucoup,0,1,elle m'a aide beaucoup,elle m'a aide beaucoup,0,1,12/22/2024 16:39
-Je n'ai encore rien recu,Je n'ai encore rien reçu,1,0.9583333333333334,je n'ai encore rien recu,je n'ai encore rien recu,0,1,12/22/2024 16:40
+Chaque question est lue,Chaque question est lue,0,1.0,chaque question est lue,chaque question est lue,0,1.0,12/18/2024 22:55
+Elle m'a aidé beaucoup,Elle m'a aidé beaucoup,0,1.0,elle m'a aide beaucoup,elle m'a aide beaucoup,0,1.0,12/22/2024 16:39
+Je n'ai encore rien recu,Je n'ai encore rien reçu,1,0.9583333333333334,je n'ai encore rien recu,je n'ai encore rien recu,0,1.0,12/22/2024 16:40
 "Ces vacances, je les ai vraiment merité",Ces vacances je les ai vraiment méritées,4,0.9367088607594936,ces vacances je les ai vraiment merite,ces vacances je les ai vraiment meritees,2,0.9743589743589745,12/22/2024 16:41
-Je veux tout savoir,Je veux tout savoir,0,1,je veux tout savoir,je veux tout savoir,0,1,12/22/2024 16:42
-Ce couteau m'a bien servi,Ce couteau m'a bien servi,0,1,ce couteau m'a bien servi,ce couteau m'a bien servi,0,1,12/22/2024 16:42
+Je veux tout savoir,Je veux tout savoir,0,1.0,je veux tout savoir,je veux tout savoir,0,1.0,12/22/2024 16:42
+Ce couteau m'a bien servi,Ce couteau m'a bien servi,0,1.0,ce couteau m'a bien servi,ce couteau m'a bien servi,0,1.0,12/22/2024 16:42
 Il a choisi la date,Il a bien choisi la date,5,0.8837209302325582,il a choisi la date,il a bien choisi la date,5,0.8837209302325582,12/22/2024 16:43
 Etês vous encore interessé,Êtes vous toujours intéressé,9,0.7037037037037037,etes vous encore interesse,etes vous toujours interesse,6,0.8148148148148149,12/22/2024 16:44
 Elle a déja sorti du bureau,Elle a déjà quitté le bureau,8,0.7272727272727273,elle a deja sorti du bureau,elle a deja quitte le bureau,7,0.7636363636363637,12/22/2024 16:45
 Le publique est rarement decu par elle,Le public est rarement déçu par elle,5,0.8918918918918919,le publique est rarement decu par elle,le public est rarement decu par elle,3,0.945945946,12/22/2024 16:46
-Les enfants ont déja commencé,Les enfants ont déjà commencé,1,0.9655172413793104,les enfants ont deja commence,les enfants ont deja commence,0,1,12/22/2024 16:46
+Les enfants ont déja commencé,Les enfants ont déjà commencé,1,0.9655172413793104,les enfants ont deja commence,les enfants ont deja commence,0,1.0,12/22/2024 16:46
 Tous les enfants semblaint herueses,Tous les enfants semblaient heureux,6,0.8857142857142857,tous les enfants semblaint herueses,tous les enfants semblaient heureux,6,0.8857142857142857,1/3/2025 18:29
-Le train arrivait frequemment en retard,Le train arrivait fréquemment en retard,1,0.9743589743589745,le train arrivait frequemment en retard,le train arrivait frequemment en retard,0,1,1/3/2025 18:30
+Le train arrivait frequemment en retard,Le train arrivait fréquemment en retard,1,0.9743589743589745,le train arrivait frequemment en retard,le train arrivait frequemment en retard,0,1.0,1/3/2025 18:30
 Personne pouvait pas attendre,Personne ne pouvait attendre,7,0.8771929824561404,personne pouvait pas attendre,personne ne pouvait attendre,7,0.8771929824561404,1/3/2025 18:33
 Ils le donnaient toujour la raison,Ils lui donnaient toujours raison,5,0.8955223880597015,ils le donnaient toujour la raison,ils lui donnaient toujours raison,5,0.8955223880597015,1/9/2025 17:37
 Je le laissait frequemment seule,Je les laissais fréquemment seuls,4,0.8923076923076922,je le laissait frequemment seule,je les laissais frequemment seuls,3,0.9230769230769232,1/9/2025 17:39
 Une espoir restait encore,Un espoir restait encore,1,0.979591837,une espoir restait encore,un espoir restait encore,1,0.979591837,1/9/2025 17:39
-Elle vous aimait bien,Elle vous aimait bien,0,1,elle vous aimait bien,elle vous aimait bien,0,1,1/9/2025 17:40
-C'est quand ton anniversaire,C'est quand ton anniversaire,0,1,c'est quand ton anniversaire,c'est quand ton anniversaire,0,1,1/9/2025 17:45
-Ton sourire me manque,Ton sourire me manque,0,1,ton sourire me manque,ton sourire me manque,0,1,1/9/2025 17:48
-Nous esperions trouver un tresor,Nous espérions trouver un trésor,2,0.9375,nous esperions trouver un tresor,nous esperions trouver un tresor,0,1,1/14/2025 18:05
+Elle vous aimait bien,Elle vous aimait bien,0,1.0,elle vous aimait bien,elle vous aimait bien,0,1.0,1/9/2025 17:40
+C'est quand ton anniversaire,C'est quand ton anniversaire,0,1.0,c'est quand ton anniversaire,c'est quand ton anniversaire,0,1.0,1/9/2025 17:45
+Ton sourire me manque,Ton sourire me manque,0,1.0,ton sourire me manque,ton sourire me manque,0,1.0,1/9/2025 17:48
+Nous esperions trouver un tresor,Nous espérions trouver un trésor,2,0.9375,nous esperions trouver un tresor,nous esperions trouver un tresor,0,1.0,1/14/2025 18:05
 Ils esperaient trouver un auberge,Ils espéraient trouver une auberge,2,0.9552238805970148,ils esperaient trouver un auberge,ils esperaient trouver une auberge,1,0.9850746268656716,1/14/2025 18:06
 Les tourists vienaient chaq ete,Les touristes venaient chaque été,6,0.875,les tourists vienaient chaq ete,les touristes venaient chaque ete,4,0.9375,1/14/2025 18:07
-L'association propose de nouvelles activites,L'association propose de nouvelles activités,1,0.9772727272727272,l'association propose de nouvelles activites,l'association propose de nouvelles activites,0,1,1/14/2025 18:09
-Les enfants ont deja commencé,Les enfants ont déjà commencé,2,0.9310344827586208,les enfants ont deja commence,les enfants ont deja commence,0,1,1/14/2025 18:10
-Remy a fabriqué un calendrier,Rémy a fabriqué un calendrier,1,0.9655172413793104,remy a fabrique un calendrier,remy a fabrique un calendrier,0,1,1/14/2025 18:11
-Elle est encore en activité,Elle est encore en activité,0,1,elle est encore en activite,elle est encore en activite,0,1,1/14/2025 18:11
+L'association propose de nouvelles activites,L'association propose de nouvelles activités,1,0.9772727272727272,l'association propose de nouvelles activites,l'association propose de nouvelles activites,0,1.0,1/14/2025 18:09
+Les enfants ont deja commencé,Les enfants ont déjà commencé,2,0.9310344827586208,les enfants ont deja commence,les enfants ont deja commence,0,1.0,1/14/2025 18:10
+Remy a fabriqué un calendrier,Rémy a fabriqué un calendrier,1,0.9655172413793104,remy a fabrique un calendrier,remy a fabrique un calendrier,0,1.0,1/14/2025 18:11
+Elle est encore en activité,Elle est encore en activité,0,1.0,elle est encore en activite,elle est encore en activite,0,1.0,1/14/2025 18:11
 C'est une pause bien merité,C'est une pause bien méritée,2,0.9454545454545454,c'est une pause bien merite,c'est une pause bien meritee,1,0.9818181818181818,1/14/2025 18:12
-Mon cousin s'est rasé,Mon cousin s'est rasé,0,1,mon cousin s'est rase,mon cousin s'est rase,0,1,1/14/2025 18:12
-Nous avons perdu sa trace,Nous avons perdu sa trace,0,1,nous avons perdu sa trace,nous avons perdu sa trace,0,1,2/1/2025 21:37
+Mon cousin s'est rasé,Mon cousin s'est rasé,0,1.0,mon cousin s'est rase,mon cousin s'est rase,0,1.0,1/14/2025 18:12
+Nous avons perdu sa trace,Nous avons perdu sa trace,0,1.0,nous avons perdu sa trace,nous avons perdu sa trace,0,1.0,2/1/2025 21:37
 Cette espece est menace par le changement climatique,Cette espèce est menacée par le changement climatique,2,0.9714285714285714,cette espece est menace par le changement climatique,cette espece est menacee par le changement climatique,1,0.9904761904761904,2/1/2025 21:42
-Les bactetries sont minuscules,Les bactetries sont minuscules,0,1,les bactetries sont minuscules,les bactetries sont minuscules,0,1,2/1/2025 21:43
+Les bactetries sont minuscules,Les bactetries sont minuscules,0,1.0,les bactetries sont minuscules,les bactetries sont minuscules,0,1.0,2/1/2025 21:43
 Cette espece est menacé par le changement climatique,Cette espèce est menacée par le changement climatique,2,0.9714285714285714,cette espece est menace par le changement climatique,cette espece est menacee par le changement climatique,1,0.9904761904761904,2/2/2025 21:25
-Nous dansons autour d'un grand chene,Nous dansons autour d'un grand chêne,1,0.9722222222222222,nous dansons autour d'un grand chene,nous dansons autour d'un grand chene,0,1,2/2/2025 21:26
+Nous dansons autour d'un grand chene,Nous dansons autour d'un grand chêne,1,0.9722222222222222,nous dansons autour d'un grand chene,nous dansons autour d'un grand chene,0,1.0,2/2/2025 21:26
 Les chenes sont couverts de neige,Les champs sont couverts de neige,3,0.9090909090909092,les chenes sont couverts de neige,les champs sont couverts de neige,3,0.9090909090909092,2/2/2025 21:26
-Il dort sur le sol,Il dort sur le sol,0,1,il dort sur le sol,il dort sur le sol,0,1,2/3/2025 21:44
-L'arbre pousse lentement,L'arbre pousse lentement,0,1,l'arbre pousse lentement,l'arbre pousse lentement,0,1,2/3/2025 21:45
+Il dort sur le sol,Il dort sur le sol,0,1.0,il dort sur le sol,il dort sur le sol,0,1.0,2/3/2025 21:44
+L'arbre pousse lentement,L'arbre pousse lentement,0,1.0,l'arbre pousse lentement,l'arbre pousse lentement,0,1.0,2/3/2025 21:45
 Tous les plants ont besoin d'eau et lumiere,Toutes les plantes ont besoin d'eau et de lumière,7,0.9130434782608696,tous les plants ont besoin d'eau et lumiere,toutes les plantes ont besoin d'eau et de lumiere,6,0.9347826086956522,2/3/2025 21:45
 Rien pousse dans ce sol,Rien ne pousse sur ce sol,7,0.8333333333333334,rien pousse dans ce sol,rien ne pousse sur ce sol,7,0.8333333333333334,2/3/2025 21:46
-Il n'est pas du tout jeune,Il n'est pas du tout jeune,0,1,il n'est pas du tout jeune,il n'est pas du tout jeune,0,1,2/3/2025 21:52
+Il n'est pas du tout jeune,Il n'est pas du tout jeune,0,1.0,il n'est pas du tout jeune,il n'est pas du tout jeune,0,1.0,2/3/2025 21:52
 Comment influence la musique notre cerveau,Comment la musique agit-elle sur notre cerveau,20,0.7272727272727273,comment influence la musique notre cerveau,comment la musique agitelle sur notre cerveau,19,0.735632184,2/3/2025 21:52
+Je plante des paquerettes,Je plante des pâquerettes,1,0.96,je plante des paquerettes,je plante des paquerettes,0,1.0,2/5/2025 22:28
+La racine est bleu,La racine est bleue,1,0.972972973,la racine est bleu,la racine est bleue,1,0.972972973,2/5/2025 22:29
+L'ocean est calme aujourd'hui,L'océan est calme aujourd'hui,1,0.9655172413793104,l'ocean est calme aujourd'hui,l'ocean est calme aujourd'hui,0,1.0,2/5/2025 22:30
+Le lapin a mangé des paquerettes,Le lapin a mangé des pâquerettes,1,0.96875,le lapin a mange des paquerettes,le lapin a mange des paquerettes,0,1.0,2/5/2025 22:31
+Le racines ont bessoin d'eau,Les racines ont besoin d'eau,2,0.9642857142857144,le racines ont bessoin d'eau,les racines ont besoin d'eau,2,0.9642857142857144,2/5/2025 22:31
+C'est la planete le plus petite de notre system solar,C'est la planète la plus petite de notre système solaire,6,0.9174311926605504,c'est la planete le plus petite de notre system solar,c'est la planete la plus petite de notre systeme solaire,4,0.9541284403669724,2/5/2025 22:32
+La conservation de cette espece est dificile,La conservation de cette espèce est difficile,2,0.9662921348314608,la conservation de cette espece est dificile,la conservation de cette espece est difficile,1,0.9887640449438202,2/7/2025 23:08
+Les coraux de l'Australie sone menace,Les coraux d'Australie sont menacés,6,0.8888888888888888,les coraux de l'australie sone menace,les coraux d'australie sont menaces,5,0.9166666666666666,2/7/2025 23:09
+Ils se sont caches dans le jardin,Ils se sont cachés dans le jardin,1,0.9696969696969696,ils se sont caches dans le jardin,ils se sont caches dans le jardin,0,1.0,2/7/2025 23:10
+Comment resiste la bacterie un environnement acide,Comment la bactérie résiste-t-elle à un environnement acide,22,0.7706422018348624,comment resiste la bacterie un environnement acide,comment la bacterie resistetelle a un environnement acide,20,0.7850467289719626,2/7/2025 23:11
+Ce sont des bacteries d'intestin,Ce sont des bactéries d'intestin,1,0.96875,ce sont des bacteries d'intestin,ce sont des bacteries d'intestin,0,1.0,2/9/2025 16:48
+La racine est bleue,La racine est bleue,0,1.0,la racine est bleue,la racine est bleue,0,1.0,2/9/2025 16:48
+Les coraux de l'Australie sont menacés,Les coraux de l'Australie sont menacés,0,1.0,les coraux de l'australie sont menaces,les coraux de l'australie sont menaces,0,1.0,2/9/2025 16:50
+Quelq'un a cueilli toues mes fleures,Quelqu'un a cueilli toutes mes fleurs,3,0.9589041095890412,quelq'un a cueilli toues mes fleures,quelqu'un a cueilli toutes mes fleurs,3,0.9589041095890412,2/9/2025 16:51
+Les coraux et les esponges sont des animaux étranges,Les coraux et les éponges sont des animaux très étranges,7,0.925925926,les coraux et les esponges sont des animaux etranges,les coraux et les eponges sont des animaux tres etranges,6,0.9444444444444444,2/9/2025 16:53
+C'est inattendu,C'est inattendu,0,1.0,c'est inattendu,c'est inattendu,0,1.0,2/24/2025 22:26
+Un arc-en-ciel a sept couleurs,Un arc-en-ciel a sept couleurs,0,1.0,un arcenciel a sept couleurs,un arcenciel a sept couleurs,0,1.0,2/24/2025 22:27
+Il recoit un cadeu inattendu,Il reçoit un cadeau inattendu,2,0.9473684210526316,il recoit un cadeu inattendu,il recoit un cadeau inattendu,1,0.9824561403508772,2/24/2025 22:28
+Un chiffre et un nombre,Un chiffre et un nombre,0,1.0,un chiffre et un nombre,un chiffre et un nombre,0,1.0,2/24/2025 22:29
+Ma cousine aime cette chanteuse,Ma cousine aime cette chanteuse,0,1.0,ma cousine aime cette chanteuse,ma cousine aime cette chanteuse,0,1.0,3/3/2025 21:54
+Il collectionne des guitarres rares,Il collectionne des guitares rares,1,0.9855072463768116,il collectionne des guitarres rares,il collectionne des guitares rares,1,0.9855072463768116,3/3/2025 21:55
+Il faut repeter regulierement,Il faut répéter régulièrement,4,0.8620689655172413,il faut repeter regulierement,il faut repeter regulierement,0,1.0,3/3/2025 21:55
+Le refrain est tres connu,Le refrain est très connu,1,0.96,le refrain est tres connu,le refrain est tres connu,0,1.0,3/3/2025 22:02
+a quelle heure reptez vous ce soir,À quelle heure répétez vous ce soir,3,0.927536232,a quelle heure reptez vous ce soir,a quelle heure repetez vous ce soir,1,0.9855072463768116,3/3/2025 22:04
+La jeune femme dirige deux choeurs,La jeune femme dirige deux chœurs,2,0.9552238805970148,la jeune femme dirige deux choeurs,la jeune femme dirige deux choeurs,0,1.0,3/3/2025 22:05
+En cet etat il est liquide,"En cet état, il est liquide",2,0.9433962264150944,en cet etat il est liquide,en cet etat il est liquide,0,1.0,3/11/2025 20:01
+Le sel est une substance utile,Le sel est une substance utile,0,1.0,le sel est une substance utile,le sel est une substance utile,0,1.0,3/11/2025 20:03
+L'or et le argent sont des metaux precieux,L'or et l'argent sont des métaux précieux,4,0.9156626506024096,l'or et le argent sont des metaux precieux,l'or et l'argent sont des metaux precieux,2,0.963855422,3/11/2025 20:04
+Le pays produit beaucoup de coton,Le pays produit beaucoup de coton,0,1.0,le pays produit beaucoup de coton,le pays produit beaucoup de coton,0,1.0,3/11/2025 20:04
+Cette region est riche en cuivre,Cette région est riche en cuivre,1,0.96875,cette region est riche en cuivre,cette region est riche en cuivre,0,1.0,3/23/2025 22:42
+L'enfant a un cheval de bois,L'enfant a un cheval de bois,0,1.0,l'enfant a un cheval de bois,l'enfant a un cheval de bois,0,1.0,3/23/2025 22:43
+Ma chemise est en coton,Ma chemise est en coton,0,1.0,ma chemise est en coton,ma chemise est en coton,0,1.0,3/23/2025 22:43
+C'est liquide,C'est liquide,0,1.0,c'est liquide,c'est liquide,0,1.0,3/23/2025 22:43
+Est-ce que le poisson vaut plus que l'or,Est-ce que le poisson vaut plus que l'or,0,1.0,estce que le poisson vaut plus que l'or,estce que le poisson vaut plus que l'or,0,1.0,3/23/2025 22:45
+La sel est une sustance utile,Le sel est une substance utile,2,0.9491525423728814,la sel est une sustance utile,le sel est une substance utile,2,0.9491525423728814,3/23/2025 22:45
+Cette fruit est naturellement riche en fer,Ce fruit est naturellement riche en fer,3,0.962962963,cette fruit est naturellement riche en fer,ce fruit est naturellement riche en fer,3,0.962962963,3/23/2025 22:46
+L'amerique est riche en petrole,L'Amérique est riche en pétrole,3,0.9032258064516128,l'amerique est riche en petrole,l'amerique est riche en petrole,0,1.0,3/23/2025 22:47
+Ce sont des substances naturelles,Ce sont des substances naturelles,0,1.0,ce sont des substances naturelles,ce sont des substances naturelles,0,1.0,3/23/2025 22:48
+Le material doit etre solide,Le matériel doit être solide,3,0.8928571428571429,le material doit etre solide,le materiel doit etre solide,1,0.9642857142857144,3/23/2025 22:50
+L'or est un element chemique,L'or est un élément chimique,3,0.8928571428571429,l'or est un element chemique,l'or est un element chimique,1,0.9642857142857144,3/23/2025 22:50
+Ce poudre est toxique,Cette poudre est toxique,3,0.9333333333333332,ce poudre est toxique,cette poudre est toxique,3,0.9333333333333332,3/23/2025 22:51
+Je porte une robe en soie,Je porte une robe en soie,0,1.0,je porte une robe en soie,je porte une robe en soie,0,1.0,3/23/2025 22:52
+L'essense est pour ma voiture,L'essence est pour ma voiture,1,0.9655172413793104,l'essense est pour ma voiture,l'essence est pour ma voiture,1,0.9655172413793104,3/23/2025 22:53
+L'eau est un ressource precieuse est fragile,L'eau est une ressource précieuse et fragile,3,0.9545454545454546,l'eau est un ressource precieuse est fragile,l'eau est une ressource precieuse et fragile,2,0.9772727272727272,3/23/2025 22:54
+Les plants produient oxygene,Les plantes produisent de l'oxygène,8,0.8571428571428572,les plants produient oxygene,les plantes produisent de l'oxygene,7,0.8888888888888888,3/23/2025 22:55
+Le marbre est une pierre naturelle,Le marbre est une pierre naturelle,0,1.0,le marbre est une pierre naturelle,le marbre est une pierre naturelle,0,1.0,3/25/2025 22:45
+Cette zone est riche en gaz,Cette zone est riche en gaz,0,1.0,cette zone est riche en gaz,cette zone est riche en gaz,0,1.0,3/25/2025 22:45
+Ils ont verifié la qualité de l'aire,Ils ont vérifié la qualité de l'air,2,0.9577464788732396,ils ont verifie la qualite de l'aire,ils ont verifie la qualite de l'air,1,0.9859154929577464,3/25/2025 22:47
+Les calcules que tu as verifies sont correctes,"Les calculs que tu as vérifiés, sont corrects",5,0.9230769230769232,les calcules que tu as verifies sont correctes,les calculs que tu as verifies sont corrects,2,0.9777777777777776,3/25/2025 22:48
+Mes utiles sont en acier,Mes outils sont en acier,2,0.9583333333333334,mes utiles sont en acier,mes outils sont en acier,2,0.9583333333333334,3/25/2025 22:50
+Le cinq vieux hommes s'etait assis la,Les cinq vieux hommes s'étaient assis là,5,0.9090909090909092,le cinq vieux hommes s'etait assis la,les cinq vieux hommes s'etaient assis la,3,0.961038961,3/28/2025 20:48
+Le soldat avait ecrit une lettre,Le soldat avait écrit une lettre,1,0.96875,le soldat avait ecrit une lettre,le soldat avait ecrit une lettre,0,1.0,3/28/2025 20:49
+Cela ne mene a rien,Cela ne mène à rien,2,0.8947368421052632,cela ne mene a rien,cela ne mene a rien,0,1.0,3/28/2025 20:52
+quatre cinquiemes de les etudiants sont francaises,Les quatre cinquièmes des étudiants sont français,12,0.8484848484848485,quatre cinquiemes de les etudiants sont francaises,les quatre cinquiemes des etudiants sont francais,9,0.9090909090909092,3/28/2025 20:53
+a gauche ou a droite,À gauche ou à droite,2,0.9,a gauche ou a droite,a gauche ou a droite,0,1.0,3/28/2025 20:54
+Il m'appele pour la cinquieme fois,Il m'appelle pour la cinquième fois,2,0.9565217391304348,il m'appele pour la cinquieme fois,il m'appelle pour la cinquieme fois,1,0.9855072463768116,3/28/2025 20:55
+Je suis la meilleure,Je suis la meilleure,0,1.0,je suis la meilleure,je suis la meilleure,0,1.0,3/28/2025 20:55
+Donnez moi le ballon,Donnez moi le ballon,0,1.0,donnez moi le ballon,donnez moi le ballon,0,1.0,3/28/2025 20:55
+Les cinq vieux hommes s'etaient assis la,Les cinq vieux hommes s'étaient assis là,2,0.95,les cinq vieux hommes s'etaient assis la,les cinq vieux hommes s'etaient assis la,0,1.0,3/30/2025 23:24
+Il avait pourtant promis de ne rien dire,Il avait pourtant promis de ne rien dire,0,1.0,il avait pourtant promis de ne rien dire,il avait pourtant promis de ne rien dire,0,1.0,3/30/2025 23:25
+Un chat s'etait assis sur la chaise,Un chat s'était assis sur la chaise,1,0.9714285714285714,un chat s'etait assis sur la chaise,un chat s'etait assis sur la chaise,0,1.0,3/30/2025 23:26
+La conference avais eu lieu en decembre,La conférence avait eu lieu en décembre,3,0.9230769230769232,la conference avais eu lieu en decembre,la conference avait eu lieu en decembre,1,0.9743589743589745,3/30/2025 23:28
+Elle se léve toujours a six heures,Elle se lève toujours à six heures,2,0.9411764705882352,elle se leve toujours a six heures,elle se leve toujours a six heures,0,1.0,4/3/2025 22:44
+Elle ne pouvait pas se souvenir de mon addresse,Elle ne pouvait pas se souvenir de mon adresse,1,0.989247312,elle ne pouvait pas se souvenir de mon addresse,elle ne pouvait pas se souvenir de mon adresse,1,0.989247312,4/3/2025 22:45
+Il va se laver,Il va se laver,0,1.0,il va se laver,il va se laver,0,1.0,4/3/2025 22:46
+ca m'interesse,Ça m'intéresse,2,0.8571428571428572,ca m'interesse,ca m'interesse,0,1.0,4/3/2025 22:47
+Il ne veut pas aller a l'ecole parce que ses eleves sont terribles,Il ne veut pas aller à l'école parce que ses élèves sont terribles,4,0.9393939393939394,il ne veut pas aller a l'ecole parce que ses eleves sont terribles,il ne veut pas aller a l'ecole parce que ses eleves sont terribles,0,1.0,4/3/2025 22:49
+Les enfants sautent dans la piscine,Les enfants sautent dans la piscine,0,1.0,les enfants sautent dans la piscine,les enfants sautent dans la piscine,0,1.0,4/3/2025 22:50
+Mon cousin est extraordinaire,Mon cousin est extraordinaire,0,1.0,mon cousin est extraordinaire,mon cousin est extraordinaire,0,1.0,4/3/2025 22:50
+Ce pantalon est terrible,Ce pantalon est terrible,0,1.0,ce pantalon est terrible,ce pantalon est terrible,0,1.0,4/3/2025 22:51
+Notre relation est comment une aventure,Notre relation est comme une aventure,2,0.9736842105263158,notre relation est comment une aventure,notre relation est comme une aventure,2,0.9736842105263158,4/6/2025 19:38
+C'est une ville bruyante,C'est une ville bruyante,0,1.0,c'est une ville bruyante,c'est une ville bruyante,0,1.0,4/6/2025 19:39
+Les touristes venaient chaque ete,Les touristes venaient chaque été,2,0.9393939393939394,les touristes venaient chaque ete,les touristes venaient chaque ete,0,1.0,4/6/2025 19:39
+nous le voyaions partout,Nous la voyions partout,3,0.8936170212765957,nous le voyaions partout,nous la voyions partout,2,0.9361702127659576,4/6/2025 19:40
+pensait-il a ses parents,Pensait-il à ses parents,2,0.9166666666666666,pensaitil a ses parents,pensaitil a ses parents,0,1.0,4/6/2025 19:42
+Sophie le montre son cahier,Sophie lui montre son cahier,2,0.9454545454545454,sophie le montre son cahier,sophie lui montre son cahier,2,0.9454545454545454,4/6/2025 19:43
+J'etait vraiment content de ma creation,J'étais vraiment content de ma création,3,0.9230769230769232,j'etait vraiment content de ma creation,j'etais vraiment content de ma creation,1,0.9743589743589745,4/28/2025 22:12
+L'espectateurs semblent retenir leur souffle,Les spectateurs semblent retenir leur souffle,3,0.9662921348314608,l'espectateurs semblent retenir leur souffle,les spectateurs semblent retenir leur souffle,3,0.9662921348314608,4/28/2025 22:13
+La scene est grande,La scène est grande,1,0.9473684210526316,la scene est grande,la scene est grande,0,1.0,4/28/2025 22:18
+Elles ont joue sur la scene principale,Elles ont joué sur la scène principale,2,0.9473684210526316,elles ont joue sur la scene principale,elles ont joue sur la scene principale,0,1.0,4/28/2025 22:19
+Je visite beaucoup de expositions,Je visite beaucoup d'expositions,2,0.9538461538461538,je visite beaucoup de expositions,je visite beaucoup d'expositions,2,0.9538461538461538,5/1/2025 19:52
+Il a organisee un exposition completement vide,Il a organisé une exposition complètement vide,4,0.9347826086956522,il a organisee un exposition completement vide,il a organise une exposition completement vide,2,0.9782608695652174,5/1/2025 19:53
+J'aime bien des bandes dessines,J'aime beaucoup les bandes dessinées,9,0.835820896,j'aime bien des bandes dessines,j'aime beaucoup les bandes dessinees,9,0.835820896,5/1/2025 19:54
+L'actrice est de retour sur le tapis rouge,L'actrice est de retour sur le tapis rouge,0,1.0,l'actrice est de retour sur le tapis rouge,l'actrice est de retour sur le tapis rouge,0,1.0,5/1/2025 19:55
+Ma tante est sculptrice,Ma tante est sculptrice,0,1.0,ma tante est sculptrice,ma tante est sculptrice,0,1.0,5/1/2025 19:59
+J'utilise la camara,J'utilise la caméra,1,0.9473684210526316,j'utilise la camara,j'utilise la camera,1,0.9473684210526316,5/1/2025 20:00
+La estatue represente une deese,La statue représente une déesse,4,0.9032258064516128,la estatue represente une deese,la statue represente une deesse,2,0.967741935,5/1/2025 20:00
+Un policier la laisse s'echapper,Un policier l'a laissé s'échapper,3,0.9230769230769232,un policier la laisse s'echapper,un policier l'a laisse s'echapper,1,0.9846153846153848,5/15/2025 23:06
+Cette acusation n'est pas vrai,Cette accusation n'est pas vraie,2,0.967741935,cette acusation n'est pas vrai,cette accusation n'est pas vraie,2,0.967741935,5/15/2025 23:08
+Est-ce que le pere Noel existe vraiment,Est-ce que le Père Noël existe vraiment,3,0.9230769230769232,estce que le pere noel existe vraiment,estce que le pere noel existe vraiment,0,1.0,5/31/2025 21:40
+Est-ce que le TGV de Paris va arriver a l'heure,Est-ce que le TGV de Paris va arriver à l'heure,1,0.9787234042553192,estce que le tgv de paris va arriver a l'heure,estce que le tgv de paris va arriver a l'heure,0,1.0,5/31/2025 21:41
+Laquelle de la trois deesses est la plus belle,Laquelle des trois déesses est la plus belle,4,0.9333333333333332,laquelle de la trois deesses est la plus belle,laquelle des trois deesses est la plus belle,3,0.9555555555555556,5/31/2025 21:42
+Que mange le bebe,Que mange le bébé,2,0.8823529411764706,que mange le bebe,que mange le bebe,0,1.0,5/31/2025 21:42
+Est-ce que Laurie nes responde pas,Est-ce que Laurie ne répond pas,4,0.9230769230769232,estce que laurie nes responde pas,estce que laurie ne repond pas,3,0.9523809523809524,5/31/2025 21:44
+Combien de tonnes de chocolat les Francais mangent-ils par an,Combien de tonnes de chocolat les Français mangent-ils par an,1,0.9836065573770492,combien de tonnes de chocolat les francais mangentils par an,combien de tonnes de chocolat les francais mangentils par an,0,1.0,5/31/2025 21:47
+"ici, la princesse a fait un discours","ici, la princesse a fait un discours",0,1.0,ici la princesse a fait un discours,ici la princesse a fait un discours,0,1.0,7/3/2025 22:12
+Comment etait la population avant,Comment était la population avant,1,0.9696969696969696,comment etait la population avant,comment etait la population avant,0,1.0,7/3/2025 22:13
+Ce roi s'est marie deux fois,Ce roi s'est marié deux fois,1,0.9642857142857144,ce roi s'est marie deux fois,ce roi s'est marie deux fois,0,1.0,7/3/2025 22:15
+pourquoi preferes tu ce chapitre,Pourquoi préfères tu ce chapitre,3,0.90625,pourquoi preferes tu ce chapitre,pourquoi preferes tu ce chapitre,0,1.0,7/7/2025 18:52
+C'est une solution excellente,C'est une solution excellente,0,1.0,c'est une solution excellente,c'est une solution excellente,0,1.0,7/7/2025 18:52
+C'est l'autor que je recommend souvant,C'est l'auteur que je recommande souvent,5,0.8974358974358975,c'est l'autor que je recommend souvant,c'est l'auteur que je recommande souvent,5,0.8974358974358975,7/7/2025 18:54
+le roman que paul a ecrit est passionant,Le roman que Paul a écrit est passionnant,4,0.9135802469135804,le roman que paul a ecrit est passionant,le roman que paul a ecrit est passionnant,1,0.9876543209876544,7/7/2025 18:57
+pourqoui est-elle mysterieuse,Pourquoi est-elle mystérieuse,4,0.896551724,pourqoui estelle mysterieuse,pourquoi estelle mysterieuse,2,0.9642857142857144,7/7/2025 18:58
+Ce presentateur connait bien ce livre,Ce présentateur connaît bien ce livre,2,0.945945946,ce presentateur connait bien ce livre,ce presentateur connait bien ce livre,0,1.0,7/11/2025 21:08
+J'aime la presentateure,J'aime la présentatrice,4,0.8695652173913043,j'aime la presentateure,j'aime la presentatrice,3,0.9130434782608696,7/11/2025 21:08
+Une souppe rapide avant le examen te faira du bien,Une soupe rapide avant l'examen te fera du bien,5,0.9278350515463918,une souppe rapide avant le examen te faira du bien,une soupe rapide avant l'examen te fera du bien,5,0.9278350515463918,7/11/2025 21:11
+choisis bien ton colocataire,choisis bien ton colocataire,0,1.0,choisis bien ton colocataire,choisis bien ton colocataire,0,1.0,7/11/2025 21:12
+mes deux filles sont pereseuses,Mes deux filles sont paresseuses,3,0.9206349206349208,mes deux filles sont pereseuses,mes deux filles sont paresseuses,2,0.9523809523809524,7/11/2025 21:12
+heuresement je ne suis pas paresseuse,"Heureusement, je ne suis pas paresseuse",3,0.9473684210526316,heuresement je ne suis pas paresseuse,heureusement je ne suis pas paresseuse,1,0.9866666666666668,7/11/2025 21:13
+Je viens de Lyon et toi,Je viens de Lyon et toi,0,1.0,je viens de lyon et toi,je viens de lyon et toi,0,1.0,7/11/2025 21:13
+le colocataire parfait,le colocataire parfait,0,1.0,le colocataire parfait,le colocataire parfait,0,1.0,7/11/2025 21:14
+J'ai trois ados a la maison,J'ai trois ados à la maison,1,0.962962963,j'ai trois ados a la maison,j'ai trois ados a la maison,0,1.0,7/11/2025 21:14
+Pouvons nous lui envoyer le papier par email,Peut-on vous envoyer la feuille par e-mail,17,0.7209302325581395,pouvons nous lui envoyer le papier par email,peuton vous envoyer la feuille par email,15,0.7380952380952381,7/17/2025 22:27
+Mais ella a choisi une chemise bleu,Mais elle a choisi une chemise bleue,2,0.9577464788732396,mais ella a choisi une chemise bleu,mais elle a choisi une chemise bleue,2,0.9577464788732396,7/17/2025 22:29
+Elles lui dissent bonjour,Elles lui disent bonjour,1,0.979591837,elles lui dissent bonjour,elles lui disent bonjour,1,0.979591837,7/17/2025 22:30
+Mais elle a choisi une chemise bleue,Mais elle a choisi une chemise bleue,0,1.0,mais elle a choisi une chemise bleue,mais elle a choisi une chemise bleue,0,1.0,7/17/2025 22:31
+la route est sud de notre ecole,la route au sud de notre école,4,0.8852459016393442,la route est sud de notre ecole,la route au sud de notre ecole,3,0.918032786885246,7/25/2025 16:06
+La ferme ou nous allions avais des animaux,La ferme où nous allions avait des animaux,2,0.9523809523809524,la ferme ou nous allions avais des animaux,la ferme ou nous allions avait des animaux,1,0.9761904761904762,7/25/2025 16:08
+C'est tellement injuste,C'est tellement injuste,0,1.0,c'est tellement injuste,c'est tellement injuste,0,1.0,2025-08-09 14:36:28
+Mon chien mange le moins vite,Mon chien mange le moins vite,0,1.0,mon chien mange le moins vite,mon chien mange le moins vite,0,1.0,2025-08-09 14:37:41
+L'oiseau a des oreilles cachees,L'oiseau a des oreilles cachées,1,0.967741935483871,l'oiseau a des oreilles cachees,l'oiseau a des oreilles cachees,0,1.0,2025-08-09 14:38:30
+Il bois son lait proprement,Il boit son lait proprement,1,0.962962962962963,il bois son lait proprement,il boit son lait proprement,1,0.962962962962963,2025-08-09 14:39:01
+Mon chien a les oreilles les plus petites,Mon chien a les oreilles les plus petites,0,1.0,mon chien a les oreilles les plus petites,mon chien a les oreilles les plus petites,0,1.0,2025-08-09 14:39:34
+Ta grenouille mange vite,Ta grenouille mange vite,0,1.0,ta grenouille mange vite,ta grenouille mange vite,0,1.0,2025-08-09 14:42:08
+Mon perroquet parle le plus souvant,Mon perroquet parle le plus souvent,1,0.9714285714285714,mon perroquet parle le plus souvant,mon perroquet parle le plus souvent,1,0.9714285714285714,2025-08-09 14:42:42
+C'est le plus sure pour ne pas mordre,C'est le plus sûr pour ne pas mordre,2,0.9589041095890412,c'est le plus sure pour ne pas mordre,c'est le plus sur pour ne pas mordre,1,0.9863013698630136,2025-08-09 14:43:27
+ton chat mange le plus rarement,ton chat mange le plus rarement,0,1.0,ton chat mange le plus rarement,ton chat mange le plus rarement,0,1.0,2025-08-09 14:44:35
+Je regarderai une etoile,Je regarderai une étoile,1,0.9583333333333334,je regarderai une etoile,je regarderai une etoile,0,1.0,2025-08-16 13:08:01
+On en trouve dix ici,On en trouve dix ici,0,1.0,on en trouve dix ici,on en trouve dix ici,0,1.0,2025-08-16 13:08:30
+mon pere reparait tout,Mon père réparait tout,3,0.8636363636363636,mon pere reparait tout,mon pere reparait tout,0,1.0,2025-08-16 13:09:59
+Il est retourné a Paris,Il est retourné à Paris,1,0.9565217391304348,il est retourne a paris,il est retourne a paris,0,1.0,2025-08-16 13:11:32
+As tu deja envie de lui revoir,As-tu déjà envie de le revoir,5,0.847457627118644,as tu deja envie de lui revoir,astu deja envie de le revoir,3,0.9310344827586208,2025-08-16 13:13:26
+felicitations tu as reussis,"Félicitations, tu as réussi",5,0.8518518518518519,felicitations tu as reussis,felicitations tu as reussi,1,0.981132075471698,2025-08-25 17:56:51
+Pourquoi prends tu des conges maintenant,Pourquoi prends tu des congés maintenant,1,0.975,pourquoi prends tu des conges maintenant,pourquoi prends tu des conges maintenant,0,1.0,2025-08-25 20:20:14
+Tous sont soulages apres le success,Tous sont soulagés après le succès,4,0.8985507246376812,tous sont soulages apres le success,tous sont soulages apres le succes,1,0.9855072463768116,2025-08-25 20:20:43
+Le succes etait notre but,Le succès était notre but,2,0.92,le succes etait notre but,le succes etait notre but,0,1.0,2025-08-25 20:21:06
+Cette petite sac pesse solement trois kilos,Ce petit sac pèse seulement trois kilos,8,0.8780487804878049,cette petite sac pesse solement trois kilos,ce petit sac pese seulement trois kilos,7,0.9024390243902439,2025-10-02 20:14:29
